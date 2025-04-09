@@ -56,13 +56,13 @@ You don’t need real user data. The system uses **simulated match/mismatch pair
 
 ## 🏗 Project Structure
 
-📁 models/ → Neural network model definitions
-📁 data/ → Data loaders and preprocessing scripts
-📁 training/ → Training loops for each model
-📁 embeddings/ → Song embedding generation
-📁 retrieval/ → Playlist generation and similarity matching
-📁 api/ → (Optional) FastAPI backend
-📁 frontend/ → (Optional) React or Streamlit interface
+📁 models/ → Neural network model definitions \
+📁 data/ → Data loaders and preprocessing scripts \
+📁 training/ → Training loops for each model \
+📁 embeddings/ → Song embedding generation \
+📁 retrieval/ → Playlist generation and similarity matching \
+📁 api/ → (Optional) FastAPI backend \
+📁 frontend/ → (Optional) React or Streamlit interface \
 
 ---
 
